@@ -1,0 +1,2 @@
+# aidiagnostic
+AIDiagnostic test ex
